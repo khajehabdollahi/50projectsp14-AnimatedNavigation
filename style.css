@@ -7,10 +7,10 @@
     background-color: #eafbff;
       background-image: linear-gradient(
     to bottom,
-    #eafbff 0%,
+    rgb(168, 243, 18) 0%,
     #eafbff 50%,
     #f95292 50%,
-    #5290f9 100%
+    #8ff952 100%
   );
     font-family: 'Muli',sans-serif;
     display: flex;
